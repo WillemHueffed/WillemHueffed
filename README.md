@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WillemHueffed
-- 👀 I’m interested in Artificial Intelligence and Computer Science as a whole
-- 🌱 I’m currently enrolled at Seattle Univeristy getting my BS in Computer Science
+- Software Engineer at Imorgon Medical LLCSoftware Engineer at Imorgon Medical LLC
+- In my free time I enjoy working with my hands, bagging peaks, and multipitch climbing
 - 📫 You can reach me at willmhueffed@gmail.com
