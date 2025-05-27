@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WillemHueffed
-- Software Engineer at Imorgon Medical LLCSoftware Engineer at Imorgon Medical LLC
+- Software Engineer at Imorgon Medical LLC
 - In my free time I enjoy working with my hands, bagging peaks, and multipitch climbing
 - 📫 You can reach me at willmhueffed@gmail.com
